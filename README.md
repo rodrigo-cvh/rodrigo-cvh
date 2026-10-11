@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou Rodrigo Carvalho! 👋</h1>
+<p align="center">
+  <img src="./assets/banner.png"
+       width="100%"
+       alt="Rodrigo Carvalho — Tecnologia, Segurança da Informação e Automação"/>
+</p>
 
 <h3 align="center">
   Analista de Sistemas | Segurança da Informação | Automação Industrial
