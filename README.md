@@ -77,8 +77,8 @@ Acompanhe meus repositórios para conhecer meus projetos e minha evolução em t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrigo-cvh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cvh&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigo-cvh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigo-cvh&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
